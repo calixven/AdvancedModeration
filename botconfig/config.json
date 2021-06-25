@@ -1,0 +1,9 @@
+{
+  "token": "TOKEN_HERE",
+  "prefix": "!",
+  "mongo_path": "MONGO_PATH",
+  "return_if_unknown_command": false,
+  "owners": [],
+  "main_color": "0x2f3136",
+  "show_bot_invite": true
+}
